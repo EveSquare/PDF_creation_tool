@@ -5,4 +5,4 @@ if not "%~0"=="%~dp0.\%~nx0" (
      exit
 )
 
-python G:\GoogleDrive\Python\pdf_creater\create_pdf.py %*
+python G:\Python\PDF_creation_tool\create_pdf.py(ここはcreate_pdf.pyの絶対パス) %*
